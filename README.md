@@ -28,3 +28,16 @@ Here are some ideas to get you started:
 <!-- 파스텔 색상 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=d7b1f0&text_color=FF79C6&icon_color=ffcc00&bg_color=292d3e&hide_border=true)](https://github.com/dia218/agentmaster-financial-website) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=bcbcbc&text_color=94e2d5&icon_color=ffcc00&bg_color=23272E&hide_border=true)](https://github.com/dia218/agentmaster-financial-website) -->
+
+
+
+<br>
+
+---
+
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@dia_page_counter?name=dia_page_counter&theme=booru-yuyuyui&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+
