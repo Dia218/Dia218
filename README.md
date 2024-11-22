@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Readme Stats -->
+<!-- 테마 1 -->
 <!-- 깃허브 통계 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=61dafb&bg_color=15141b&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=c792ea&bg_color=1a2540&hide_border=false)
 <!-- 깃허브 저장소 핀 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=bcbcbc&text_color=94e2d5&icon_color=ffcc00&bg_color=23272E&hide_border=true)](https://github.com/dia218/agentmaster-financial-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false)](https://github.com/dia218/agentmaster-financial-website)
+
+<!-- 테마 2 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=c792ea&bg_color=15141b&border_color=61dafb&hide_border=false) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=15141b&border_color=61dafb&hide_border=false)](https://github.com/dia218/agentmaster-financial-website) -->
+
+<!-- 파스텔 색상 -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=d7b1f0&text_color=FF79C6&icon_color=ffcc00&bg_color=292d3e&hide_border=true)](https://github.com/dia218/agentmaster-financial-website) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=bcbcbc&text_color=94e2d5&icon_color=ffcc00&bg_color=23272E&hide_border=true)](https://github.com/dia218/agentmaster-financial-website) -->
