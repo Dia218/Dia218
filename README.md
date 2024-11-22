@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Dia218/Dia218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- GitHub Readme Stats -->
+<!-- 깃허브 통계 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=61dafb&bg_color=15141b&hide_border=false)
+<!-- 깃허브 저장소 핀 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=agentmaster-financial-website&show_owner=false&title_color=bcbcbc&text_color=94e2d5&icon_color=ffcc00&bg_color=23272E&hide_border=true)](https://github.com/dia218/agentmaster-financial-website)
