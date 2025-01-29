@@ -33,11 +33,11 @@
 
 ### Recent Blog posts
 
-<!-- BLOG-POST-LIST:START --><li><a href="https://velog.io/@dia218/ExtendWith-UnitTest">💫 velog.io/@dia218/ExtendWith UnitTest</a></li>
-<li><a href="https://velog.io/@dia218/RedisConfig">💫 velog.io/@dia218/RedisConfig</a></li>
-<li><a href="https://velog.io/@dia218/OncePerRequestFilter">💫 velog.io/@dia218/OncePerRequestFilter</a></li>
-<li><a href="https://velog.io/@dia218/removeCookie-method">💫 velog.io/@dia218/removeCookie method</a></li>
-<li><a href="https://velog.io/@dia218/ResponseCookie">💫 velog.io/@dia218/ResponseCookie</a></li>
+<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/ExtendWith UnitTest - <a href="https://velog.io/@dia218/ExtendWith-UnitTest">ExtendWith UnitTest</a></li>
+<li>💫 velog.io/@dia218/RedisConfig - <a href="https://velog.io/@dia218/RedisConfig">RedisConfig</a></li>
+<li>💫 velog.io/@dia218/OncePerRequestFilter - <a href="https://velog.io/@dia218/OncePerRequestFilter">OncePerRequestFilter</a></li>
+<li>💫 velog.io/@dia218/removeCookie method - <a href="https://velog.io/@dia218/removeCookie-method">removeCookie method</a></li>
+<li>💫 velog.io/@dia218/ResponseCookie - <a href="https://velog.io/@dia218/ResponseCookie">ResponseCookie</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Git Activity
