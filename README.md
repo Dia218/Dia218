@@ -34,6 +34,11 @@
 <br>
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#16](https://github.com/Dia218/webty-backend-spring/issues/16) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+2. 🔒 Closed issue [#16](https://github.com/Dia218/webty-backend-spring/issues/16) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+3. 🎉 Merged PR [#17](https://github.com/Dia218/webty-backend-spring/pull/17) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+4. 🗣 Commented on [#17](https://github.com/Dia218/webty-backend-spring/pull/17#issuecomment-2620815720) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+5. 💪 Opened PR [#21](https://github.com/Dia218/webty-backend-spring/pull/21) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 <!--END_SECTION:activity-->
 
 <br>
