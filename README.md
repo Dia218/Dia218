@@ -29,9 +29,14 @@
   </a>
 </p>
 
----
-
 <br>
+
+### Recent Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Recent Git Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
