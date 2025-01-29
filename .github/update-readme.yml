@@ -1,0 +1,22 @@
+name: Update README
+on:
+  schedule:
+    - cron: "*/60 * * * *" # 60분마다 실행
+  workflow_dispatch: # 수동으로 실행 가능
+
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3 # 리포지토리 체크아웃
+      - uses: jamesgeorge007/github-activity-readme@main # 활동 업데이트 액션
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token
+        with:
+          COMMIT_MSG: "⚡ Update: Recent Activity" # 커밋 메시지
+          MAX_LINES: 5 # 업데이트할 활동의 최대 수
+          COMMIT_NAME: "GitHub Activity Readme" # 커밋자 이름
