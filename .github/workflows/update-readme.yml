@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3 # 리포지토리 체크아웃
-      - uses: jamesgeorge007/github-activity-readme@main # 활동 업데이트 액션
+      - uses: jamesgeorge007/github-activity-readme@master # 활동 업데이트 액션
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub token
         with:
