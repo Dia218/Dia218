@@ -6,7 +6,9 @@
 <!-- GitHub Readme Stats -->
 <!-- 깃허브 통계 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=c792ea&bg_color=1a2540&hide_border=false" />
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dia218&count_private=true&include_all_commits=true&show_icons=true&title_color=ffcc00&text_color=0088ff&icon_color=c792ea&bg_color=1a2540&hide_border=false" />
+  </a>
 </p>
 
 <!-- 깃허브 저장소 핀 -->
