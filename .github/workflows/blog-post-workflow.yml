@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: update blog-post-workflow
 on:
   schedule: # 자동으로 워크플로우 실행
     - cron: "0 * * * *" # 매 시간마다 실행
