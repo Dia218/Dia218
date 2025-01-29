@@ -33,13 +33,7 @@
 
 ### Recent Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [ExtendWith UnitTest](https://velog.io/@dia218/ExtendWith-UnitTest)
-- [RedisConfig](https://velog.io/@dia218/RedisConfig)
-- [OncePerRequestFilter](https://velog.io/@dia218/OncePerRequestFilter)
-- [removeCookie method](https://velog.io/@dia218/removeCookie-method)
-- [ResponseCookie](https://velog.io/@dia218/ResponseCookie)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->$emojiKey(💫 /@$authorName/(https://velog.io/@dia218/ExtendWith-UnitTest)$emojiKey(💫 /@$authorName/(https://velog.io/@dia218/RedisConfig)$emojiKey(💫 /@$authorName/(https://velog.io/@dia218/OncePerRequestFilter)$emojiKey(💫 /@$authorName/(https://velog.io/@dia218/removeCookie-method)$emojiKey(💫 /@$authorName/(https://velog.io/@dia218/ResponseCookie)<!-- BLOG-POST-LIST:END -->
 
 ### Recent Git Activity
 
