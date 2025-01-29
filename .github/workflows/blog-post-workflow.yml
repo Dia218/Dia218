@@ -18,4 +18,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/@dia218" # velog.io의 RSS 피드를 사용
-          template: "💫 [$feedName/@$authorName]($url)" # 원하는 템플릿 적용
+          template: "💫 [velog.io/@$authorName]($url)" # 원하는 템플릿 적용
