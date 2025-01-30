@@ -43,11 +43,11 @@
 
 ### Recent Blog posts
 
-<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/Hierarchical Database - <a href="https://velog.io/@dia218/Hierarchical-Database">Hierarchical Database</a></li>
+<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/Long &amp; long - <a href="https://velog.io/@dia218/Java-Long-long">Long &amp; long</a></li>
+<li>💫 velog.io/@dia218/Nested Comment Database &lpar;exp.&rpar; - <a href="https://velog.io/@dia218/Nested-Comment-Database">Nested Comment Database &lpar;exp.&rpar;</a></li>
+<li>💫 velog.io/@dia218/Hierarchical Database - <a href="https://velog.io/@dia218/Hierarchical-Database">Hierarchical Database</a></li>
 <li>💫 velog.io/@dia218/ExtendWith UnitTest - <a href="https://velog.io/@dia218/ExtendWith-UnitTest">ExtendWith UnitTest</a></li>
 <li>💫 velog.io/@dia218/RedisConfig - <a href="https://velog.io/@dia218/RedisConfig">RedisConfig</a></li>
-<li>💫 velog.io/@dia218/OncePerRequestFilter - <a href="https://velog.io/@dia218/OncePerRequestFilter">OncePerRequestFilter</a></li>
-<li>💫 velog.io/@dia218/removeCookie method - <a href="https://velog.io/@dia218/removeCookie-method">removeCookie method</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Git Activity
