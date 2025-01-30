@@ -53,11 +53,11 @@
 ### Recent Git Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#15](https://github.com/Dia218/webty-backend-spring/issues/15) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-2. 🔒 Closed issue [#15](https://github.com/Dia218/webty-backend-spring/issues/15) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-3. 🔒 Closed issue [#20](https://github.com/Dia218/webty-backend-spring/issues/20) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+1. 🗣 Commented on [#22](https://github.com/Dia218/webty-backend-spring/pull/22#issuecomment-2621891091) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+2. 🔓 Reopened issue [#15](https://github.com/Dia218/webty-backend-spring/issues/15) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+3. 🔒 Closed issue [#15](https://github.com/Dia218/webty-backend-spring/issues/15) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 4. 🔒 Closed issue [#20](https://github.com/Dia218/webty-backend-spring/issues/20) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-5. 🎉 Merged PR [#21](https://github.com/Dia218/webty-backend-spring/pull/21) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+5. 🔒 Closed issue [#20](https://github.com/Dia218/webty-backend-spring/issues/20) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 <!--END_SECTION:activity-->
 
 <br>
