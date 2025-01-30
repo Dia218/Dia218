@@ -27,9 +27,19 @@
   <a href="https://github.com/dia218/coffeebeanery-website-front-next">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=coffeebeanery-website-front-next&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
   </a>
-</p>
+</p>  
 
 <br>
+<hr>
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/672684621890333195/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
 
 ### Recent Blog posts
 
