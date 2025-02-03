@@ -49,6 +49,7 @@
 <li>💫 velog.io/@dia218/Nested Comment Database &lpar;exp.&rpar; - <a href="https://velog.io/@dia218/Nested-Comment-Database">Nested Comment Database &lpar;exp.&rpar;</a></li>
 <li>💫 velog.io/@dia218/Hierarchical Database - <a href="https://velog.io/@dia218/Hierarchical-Database">Hierarchical Database</a></li>
 <!-- BLOG-POST-LIST:END -->
+(약 1시간 마다 자동 업데이트, 즉시반영X)
 
 ### Recent Git Activity
 
@@ -59,6 +60,7 @@
 4. 🔒 Closed issue [#55](https://github.com/Dia218/webty-backend-spring/issues/55) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 5. 🎉 Merged PR [#57](https://github.com/Dia218/webty-backend-spring/pull/57) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 <!--END_SECTION:activity-->
+(약 1시간 마다 자동 업데이트, 즉시반영X)
 
 <br>
 
