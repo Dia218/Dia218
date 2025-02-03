@@ -59,11 +59,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61](https://github.com/Dia218/webty-backend-spring/issues/61) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-2. 🔒 Closed issue [#59](https://github.com/Dia218/webty-backend-spring/issues/59) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-3. 🎉 Merged PR [#60](https://github.com/Dia218/webty-backend-spring/pull/60) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-4. 💪 Opened PR [#60](https://github.com/Dia218/webty-backend-spring/pull/60) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-5. 🗣 Commented on [#51](https://github.com/Dia218/webty-backend-spring/pull/51#issuecomment-2629660214) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+1. ❗ Opened issue [#12](https://github.com/Dia218/webty-frontend-next/issues/12) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+2. 🚀 Published release [[User] + [Webtoon]](https://github.com/Dia218/webty-backend-spring/releases/tag/release1.0) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+3. 🔒 Closed issue [#2](https://github.com/Dia218/webty-frontend-next/issues/2) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+4. 🎉 Merged PR [#10](https://github.com/Dia218/webty-frontend-next/pull/10) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+5. 🎉 Merged PR [#52](https://github.com/Dia218/webty-backend-spring/pull/52) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
 <!--END_SECTION:activity-->
 
 <br>
