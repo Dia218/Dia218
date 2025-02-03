@@ -46,11 +46,11 @@
 ### Recent Blog posts
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
-<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/RefreshToken @Id &lpar;.exp&rpar; - <a href="https://velog.io/@dia218/RefreshToken-Id-exp">RefreshToken @Id &lpar;.exp&rpar;</a></li>
+<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/make same as Remote Branch - <a href="https://velog.io/@dia218/make-same-as-Remote-Branch">make same as Remote Branch</a></li>
+<li>💫 velog.io/@dia218/RefreshToken @Id &lpar;.exp&rpar; - <a href="https://velog.io/@dia218/RefreshToken-Id-exp">RefreshToken @Id &lpar;.exp&rpar;</a></li>
 <li>💫 velog.io/@dia218/RestTemplate - <a href="https://velog.io/@dia218/RestTemplate">RestTemplate</a></li>
 <li>💫 velog.io/@dia218/Long &amp; long - <a href="https://velog.io/@dia218/Java-Long-long">Long &amp; long</a></li>
 <li>💫 velog.io/@dia218/Nested Comment Database &lpar;exp.&rpar; - <a href="https://velog.io/@dia218/Nested-Comment-Database">Nested Comment Database &lpar;exp.&rpar;</a></li>
-<li>💫 velog.io/@dia218/Hierarchical Database - <a href="https://velog.io/@dia218/Hierarchical-Database">Hierarchical Database</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
