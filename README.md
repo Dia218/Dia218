@@ -46,11 +46,11 @@
 ### Recent Blog posts
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
-<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/Port kill - <a href="https://velog.io/@dia218/Port-kill">Port kill</a></li>
+<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/MySQL Access - <a href="https://velog.io/@dia218/MySQL-Access">MySQL Access</a></li>
+<li>💫 velog.io/@dia218/Port kill - <a href="https://velog.io/@dia218/Port-kill">Port kill</a></li>
 <li>💫 velog.io/@dia218/Swagger Issue @RestControllerAdvice - <a href="https://velog.io/@dia218/Swagger-Issue-RestControllerAdvice">Swagger Issue @RestControllerAdvice</a></li>
 <li>💫 velog.io/@dia218/Principal - <a href="https://velog.io/@dia218/Principal">Principal</a></li>
 <li>💫 velog.io/@dia218/make same as Remote Branch - <a href="https://velog.io/@dia218/make-same-as-Remote-Branch">make same as Remote Branch</a></li>
-<li>💫 velog.io/@dia218/RefreshToken @Id &lpar;.exp&rpar; - <a href="https://velog.io/@dia218/RefreshToken-Id-exp">RefreshToken @Id &lpar;.exp&rpar;</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
