@@ -59,11 +59,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/Dia218/webty-frontend-next/pull/56) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-2. ❗ Opened issue [#55](https://github.com/Dia218/webty-frontend-next/issues/55) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-3. ❗ Opened issue [#54](https://github.com/Dia218/webty-frontend-next/issues/54) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-4. ❗ Opened issue [#53](https://github.com/Dia218/webty-frontend-next/issues/53) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-5. 🔒 Closed issue [#6](https://github.com/Dia218/webty-frontend-next/issues/6) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+1. 🔒 Closed issue [#19](https://github.com/Dia218/webty-frontend-next/issues/19) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+2. 🔒 Closed issue [#59](https://github.com/Dia218/webty-frontend-next/issues/59) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+3. ❗ Opened issue [#60](https://github.com/Dia218/webty-frontend-next/issues/60) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+4. ❗ Opened issue [#59](https://github.com/Dia218/webty-frontend-next/issues/59) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+5. 🔓 Reopened issue [#18](https://github.com/Dia218/webty-frontend-next/issues/18) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
 <!--END_SECTION:activity-->
 
 <br>
