@@ -59,11 +59,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/Dia218/webty-frontend-next/pull/74#issuecomment-2642511739) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-2. 🗣 Commented on [#74](https://github.com/Dia218/webty-frontend-next/pull/74#issuecomment-2642510897) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-3. ❗ Opened issue [#75](https://github.com/Dia218/webty-frontend-next/issues/75) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-4. 💪 Opened PR [#70](https://github.com/Dia218/webty-frontend-next/pull/70) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-5. ❗ Opened issue [#69](https://github.com/Dia218/webty-frontend-next/issues/69) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+1. 🚀 Published release [Webtoon](https://github.com/Dia218/webty-frontend-next/releases/tag/release1.0) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+2. 🗣 Commented on [#74](https://github.com/Dia218/webty-frontend-next/pull/74#issuecomment-2642511739) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+3. 🗣 Commented on [#74](https://github.com/Dia218/webty-frontend-next/pull/74#issuecomment-2642510897) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+4. ❗ Opened issue [#75](https://github.com/Dia218/webty-frontend-next/issues/75) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+5. 💪 Opened PR [#70](https://github.com/Dia218/webty-frontend-next/pull/70) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
 <!--END_SECTION:activity-->
 
 <br>
