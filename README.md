@@ -59,11 +59,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/Dia218/webty-frontend-next/issues/99) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-2. ❗ Opened issue [#127](https://github.com/Dia218/webty-backend-spring/issues/127) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
-3. ❗ Opened issue [#98](https://github.com/Dia218/webty-frontend-next/issues/98) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-4. ❗ Opened issue [#97](https://github.com/Dia218/webty-frontend-next/issues/97) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
-5. ❗ Opened issue [#96](https://github.com/Dia218/webty-frontend-next/issues/96) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+1. ❗ Opened issue [#103](https://github.com/Dia218/webty-frontend-next/issues/103) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+2. 🎉 Merged PR [#85](https://github.com/Dia218/webty-frontend-next/pull/85) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+3. 🔒 Closed issue [#94](https://github.com/Dia218/webty-frontend-next/issues/94) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+4. 🎉 Merged PR [#101](https://github.com/Dia218/webty-frontend-next/pull/101) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+5. ❗ Opened issue [#102](https://github.com/Dia218/webty-frontend-next/issues/102) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
 <!--END_SECTION:activity-->
 
 <br>
