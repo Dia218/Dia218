@@ -13,19 +13,23 @@
 
 <!-- 깃허브 저장소 핀 -->
 <p align="center">
-  <a href="https://github.com/dia218/webty-backend-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=webty-backend-spring&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
-  </a>
-  <a href="https://github.com/dia218/webty-frontend-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=webty-frontend-next&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
-  </a>
-  <br>
-  <a href="https://github.com/dia218/coffeebeanery-website-backend-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=coffeebeanery-website-backend-spring&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
-  </a>
-  <a href="https://github.com/dia218/coffeebeanery-website-front-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=coffeebeanery-website-front-next&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
-  </a>
+    <a href="https://github.com/dia218/webty-backend-kotlin">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=webty-backend-kotlin&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
+    </a>
+    <br>
+    <a href="https://github.com/dia218/webty-backend-spring">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=webty-backend-spring&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
+    </a>
+    <a href="https://github.com/dia218/webty-frontend-next">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=webty-frontend-next&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
+    </a>
+    <br>
+    <a href="https://github.com/dia218/coffeebeanery-website-backend-spring">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=coffeebeanery-website-backend-spring&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
+    </a>
+    <a href="https://github.com/dia218/coffeebeanery-website-front-next">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dia218&repo=coffeebeanery-website-front-next&show_owner=false&title_color=d7b1f0&text_color=38f8ff&icon_color=ffcc00&bg_color=1a2540&hide_border=false" />
+    </a>
 </p>  
 
 <br>
