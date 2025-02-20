@@ -63,11 +63,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Dia218/webty-backend-kotlin/pull/17) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-2. ❗ Opened issue [#16](https://github.com/Dia218/webty-backend-kotlin/issues/16) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-3. ❗ Opened issue [#15](https://github.com/Dia218/webty-backend-kotlin/issues/15) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-4. ❗ Opened issue [#14](https://github.com/Dia218/webty-backend-kotlin/issues/14) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-5. 💪 Opened PR [#183](https://github.com/Dia218/webty-backend-spring/pull/183) in [Dia218/webty-backend-spring](https://github.com/Dia218/webty-backend-spring)
+1. 🗣 Commented on [#38](https://github.com/Dia218/webty-backend-kotlin/pull/38#issuecomment-2670354760) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+2. 💪 Opened PR [#17](https://github.com/Dia218/webty-backend-kotlin/pull/17) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+3. ❗ Opened issue [#16](https://github.com/Dia218/webty-backend-kotlin/issues/16) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+4. ❗ Opened issue [#15](https://github.com/Dia218/webty-backend-kotlin/issues/15) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+5. ❗ Opened issue [#14](https://github.com/Dia218/webty-backend-kotlin/issues/14) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
 <!--END_SECTION:activity-->
 
 <br>
