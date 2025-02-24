@@ -50,11 +50,11 @@
 ### Recent Blog posts
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
-<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/JPA BaseEntity - <a href="https://velog.io/@dia218/JPA-BaseEntity">JPA BaseEntity</a></li>
+<!-- BLOG-POST-LIST:START --><li>💫 velog.io/@dia218/WebSocket STOMP - <a href="https://velog.io/@dia218/WebSocket-STOMP">WebSocket STOMP</a></li>
+<li>💫 velog.io/@dia218/JPA BaseEntity - <a href="https://velog.io/@dia218/JPA-BaseEntity">JPA BaseEntity</a></li>
 <li>💫 velog.io/@dia218/Client Login Callback - <a href="https://velog.io/@dia218/Client-Login-Callback">Client Login Callback</a></li>
 <li>💫 velog.io/@dia218/Docker Container - <a href="https://velog.io/@dia218/Docker-Container">Docker Container</a></li>
 <li>💫 velog.io/@dia218/ECMAScript - <a href="https://velog.io/@dia218/ECMAScript">ECMAScript</a></li>
-<li>💫 velog.io/@dia218/ShardCN DialogProps - <a href="https://velog.io/@dia218/ShardCN-DialogProps">ShardCN DialogProps</a></li>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
