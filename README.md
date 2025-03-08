@@ -63,11 +63,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#143](https://github.com/Dia218/webty-backend-kotlin/issues/143) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-2. 🎉 Merged PR [#144](https://github.com/Dia218/webty-backend-kotlin/pull/144) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-3. 🔒 Closed issue [#141](https://github.com/Dia218/webty-backend-kotlin/issues/141) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-4. 🎉 Merged PR [#142](https://github.com/Dia218/webty-backend-kotlin/pull/142) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
-5. 🔒 Closed issue [#196](https://github.com/Dia218/webty-frontend-next/issues/196) in [Dia218/webty-frontend-next](https://github.com/Dia218/webty-frontend-next)
+1. 💪 Opened PR [#145](https://github.com/Dia218/webty-backend-kotlin/pull/145) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+2. 🔒 Closed issue [#143](https://github.com/Dia218/webty-backend-kotlin/issues/143) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+3. 🎉 Merged PR [#144](https://github.com/Dia218/webty-backend-kotlin/pull/144) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+4. 🔒 Closed issue [#141](https://github.com/Dia218/webty-backend-kotlin/issues/141) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+5. 🎉 Merged PR [#142](https://github.com/Dia218/webty-backend-kotlin/pull/142) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
 <!--END_SECTION:activity-->
 
 <br>
