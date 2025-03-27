@@ -66,11 +66,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/3) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-2. 🎉 Merged PR [#2](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/2) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-3. ❌ Closed PR [#1](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/1) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-4. 💪 Opened PR [#1](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/1) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-5. 🎉 Merged PR [#155](https://github.com/Dia218/webty-backend-kotlin/pull/155) in [Dia218/webty-backend-kotlin](https://github.com/Dia218/webty-backend-kotlin)
+1. 🎉 Merged PR [#5](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/5) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+2. 🎉 Merged PR [#4](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/4) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+3. 🎉 Merged PR [#3](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/3) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+4. 🎉 Merged PR [#2](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/2) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+5. ❌ Closed PR [#1](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/1) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
 <!--END_SECTION:activity-->
 
 <br>
