@@ -66,11 +66,11 @@
 `(약 1시간 마다 자동 업데이트, 즉시반영X)`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/53) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-2. 💪 Opened PR [#51](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/51) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-3. 🎉 Merged PR [#48](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/48) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-4. 🎉 Merged PR [#47](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/47) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
-5. 🎉 Merged PR [#46](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/46) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+1. 💪 Opened PR [#55](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/55) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+2. 🎉 Merged PR [#53](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/53) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+3. 🗣 Commented on [#52](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/52#issuecomment-2767901971) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+4. 💪 Opened PR [#53](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/53) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
+5. 💪 Opened PR [#51](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE/pull/51) in [prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_HelloWorld_BE)
 <!--END_SECTION:activity-->
 
 <br>
